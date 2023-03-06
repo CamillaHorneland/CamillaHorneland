@@ -4,7 +4,7 @@
 
 - I live in Bergen with my family :raising_hand::man::girl::girl::girl:
 
-- 📫 How to reach me: <a href="mailto:hornikkene@gmail.com?"><img src="[https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png)"/></a>
+- 📫 How to reach me: <a href="mailto:hornikkene@gmail.com?"><img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png"/></a>
 - 
 - 
 
