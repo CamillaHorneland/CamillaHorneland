@@ -1,4 +1,4 @@
-<img  src="https://github.com/CamillaHorneland/CamillaHorneland/blob/main/GitHubProfile.png" alt="header with image and description">
+<img  src="https://github.com/CamillaHorneland/CamillaHorneland/blob/main/GitHubProfile.png" alt="header with image and description" width="100%">
 
 - :computer: I’m currently a student at Noroff where I study Front-end Development.
 
