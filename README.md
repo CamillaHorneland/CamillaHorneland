@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Camilla.
 
--I live in Bergen with my family 🙋👨👧👧👧 
+- I live in Bergen with my family 🙋👨👧👧👧 
 
-- 👀💻 I’m currently a student at Noroff where I study Front-end Development. 
+- 👀💻 I’m currently a student at Noroff where I study Front-end Development. I started my second year.
 
 - 🌱 I’m currently learning javascript and git.
 
