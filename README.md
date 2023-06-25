@@ -1,10 +1,14 @@
 <img  src="https://github.com/CamillaHorneland/CamillaHorneland/blob/main/GitHubProfile.png" alt="header with image and description" width="100%">
 
-- :computer: I’m currently a student at Noroff where I study Front-end Development.
+- 👋 Hi, I’m Camilla.
 
-- I live in Bergen with my family :raising_hand::man::girl::girl::girl:
+-I live in Bergen with my family 🙋👨👧👧👧 
 
-# Contact
+- 👀💻 I’m currently a student at Noroff where I study Front-end Development. 
+
+- 🌱 I’m currently learning javascript and git.
+
+- 📫 How to reach me:
 
 <a href="mailto:hornikkene@gmail.com?">My Mail</a> 
 
