@@ -10,7 +10,10 @@
 
 ## GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamillaHorneland&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaHorneland&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamillaHorneland&show_icons=true&theme=radical" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaHorneland&theme=radical" height="230" />
+</div>
 
 
 ## 📫 How to reach me:
