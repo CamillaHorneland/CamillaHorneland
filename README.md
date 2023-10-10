@@ -6,9 +6,14 @@
 
 - 👀💻 I’m currently a student at Noroff where I study Front-end Development. I started my second year.
 
-- 🌱 I’m currently learning javascript and git.
+- 🌱 I’m currently learning javascript, bootstrap and git.
 
-- 📫 How to reach me:
+## GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamillaHorneland&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaHorneland&theme=radical)
+
+
+## 📫 How to reach me:
 
 <a href="mailto:hornikkene@gmail.com?">My Mail</a> 
 
