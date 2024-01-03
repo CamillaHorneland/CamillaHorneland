@@ -1,12 +1,13 @@
-<img  src="https://github.com/CamillaHorneland/CamillaHorneland/blob/main/GitHubProfile.png" alt="header with image and description" width="100%">
+👋 Hi, I’m Camilla.
 
-- 👋 Hi, I’m Camilla.
+I live in Bergen with my family 🙋👨👧👧👧 
 
-- I live in Bergen with my family 🙋👨👧👧👧 
+👀💻 I’m currently a student at Noroff where I study Front-end Development. I started my second year.
 
-- 👀💻 I’m currently a student at Noroff where I study Front-end Development. I started my second year.
-
-- 🌱 I’m currently learning javascript, bootstrap and git.
+🌱 I’m currently learning:
+- JavaScript
+- Bootstrap
+- React
 
 ## GitHub Stats:
 
