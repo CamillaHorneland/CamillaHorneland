@@ -18,7 +18,6 @@ I live in Bergen with my family 🙋👨👧👧👧. In August we are moving fo
 
 <a href="https://portfoliocamillahorneland.netlify.app/">My Portfolio</a>
 
-<a href="https://www.linkedin.com/in/camilla-horneland-706bb5239/">My LinkedIn page</a>
 
 
 
