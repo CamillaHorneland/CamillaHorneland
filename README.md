@@ -1,20 +1,15 @@
-👋 Hi, I’m Camilla.
+👋 Hi! My name is Camilla.
 
-I live in Bergen with my family 🙋👨👧👧👧 
+I live in Bergen with my family 🙋👨👧👧👧. In August we are moving for a while 🗺
 
-👀💻 I’m currently a student at Noroff where I study Front-end Development. I started my second year.
+👀 I’m currently a student at Noroff where I study Front-end Development.I will be done in March.
 
 🌱 I’m currently learning:
-- JavaScript
-- Bootstrap
+
 - React
+- Tailwind
 
-## GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamillaHorneland&show_icons=true&theme=radical" height="230" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaHorneland&theme=radical" height="230" />
-</div>
+💻 I would love a Front End Developer job that allows me to work remote.
 
 
 ## 📫 How to reach me:
