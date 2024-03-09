@@ -2,7 +2,7 @@
 
 I live in Bergen with my family 🙋👨👧👧👧. In August we are moving for a while 🗺
 
-👀 I’m currently a student at Noroff where I study Front-end Development.I will be done in March.
+👀  Over the past two years, I have been studying front-end development at Noroff and recently completed my final exam. 
 
 🌱 I’m currently learning:
 
