@@ -16,7 +16,7 @@ I live in Bergen with my family 🙋👨👧👧👧. In August we are moving fo
 
 <a href="mailto:hornikkene@gmail.com?">My Mail</a> 
 
-<a href="https://portfoliocamillahorneland.netlify.app/">My Portfolio</a>
+<a href="https://camilla-horneland-portfolio.netlify.app/">My Portfolio</a>
 
 
 
